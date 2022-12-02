@@ -4,8 +4,8 @@ I'm doing the Advent of Code with a different language each day
 https://adventofcode.com/2022/
 
 This list was randomly shuffled
-1. Python
-2. PHP
+1. Python -- DONE
+2. PHP -- DONE
 3. Cobol
 4. Matlab
 5. R
