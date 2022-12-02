@@ -18,7 +18,7 @@ This list was randomly shuffled
 12. Fortran
 13. Ruby
 14. Rust
-15. Ruby
+15. C#
 16. Java
 17. Haskell
 18. Dart
