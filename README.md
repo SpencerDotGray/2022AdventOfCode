@@ -7,8 +7,8 @@ This list was randomly shuffled
 1. Python -- DONE
 2. PHP -- DONE
 3. Cobol -- DONE
-4. Matlab
-5. R
+4. Matlab -- DONE
+5. R -- DONE
 6. Visual Basic
 7. LOLCODE
 8. Kotlin
