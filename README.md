@@ -6,7 +6,7 @@ https://adventofcode.com/2022/
 This list was randomly shuffled
 1. Python -- DONE
 2. PHP -- DONE
-3. Cobol
+3. Cobol -- DONE
 4. Matlab
 5. R
 6. Visual Basic
