@@ -9,7 +9,7 @@ This list was randomly shuffled
 3. Cobol -- DONE
 4. Matlab -- DONE
 5. R -- DONE
-6. Visual Basic
+6. VB.NET -- DONE
 7. LOLCODE
 8. Kotlin
 9. Julia
