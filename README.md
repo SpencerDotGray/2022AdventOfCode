@@ -10,7 +10,7 @@ This list was randomly shuffled
 4. Matlab -- DONE
 5. R -- DONE
 6. VB.NET -- DONE
-7. LOLCODE
+7. Falcon
 8. Kotlin
 9. Julia
 10. Groovy
